@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prodanevozy>
+    <vuz>
+         <nazevModelu>Škoda Oktávia</nazevModelu>
+         <datumProdeje>2.12.2010</datumProdeje>
+         <cena>500000.00</cena>
+         <dph>20</dph>
+    </vuz>
+    <vuz>
+        <nazevModelu>Škoda Felicia</nazevModelu>
+        <datumProdeje>3.12.2000</datumProdeje>
+        <cena>210000.00</cena>
+        <dph>20</dph>
+   </vuz>
+   <vuz>
+        <nazevModelu>Škoda Fabia</nazevModelu>
+        <datumProdeje>4.12.2010</datumProdeje>
+        <cena>350000.00</cena>
+        <dph>20</dph>
+    </vuz>
+    <vuz>
+        <nazevModelu>Škoda Oktávia</nazevModelu>
+        <datumProdeje>4.12.2010</datumProdeje>
+        <cena>500000.00</cena>
+        <dph>20</dph>
+    </vuz>
+    <vuz>
+        <nazevModelu>Škoda Oktávia</nazevModelu>
+        <datumProdeje>5.12.2010</datumProdeje>
+        <cena>500000.00</cena>
+        <dph>20</dph>
+    </vuz>
+    <vuz>
+        <nazevModelu>Škoda Fabia</nazevModelu>
+        <datumProdeje>5.12.2010</datumProdeje>
+        <cena>350000.00</cena>
+        <dph>20</dph>
+    </vuz>
+    <vuz>
+        <nazevModelu>Škoda Fabia</nazevModelu>
+        <datumProdeje>6.12.2010</datumProdeje>
+        <cena>350000.00</cena>
+        <dph>20</dph>
+   </vuz>
+   <vuz>
+       <nazevModelu>Škoda Forman</nazevModelu>
+       <datumProdeje>4.12.2000</datumProdeje>
+       <cena>100000.00</cena>
+       <dph>19</dph>
+  </vuz>
+  <vuz>
+       <nazevModelu>Škoda Favorit</nazevModelu>
+       <datumProdeje>5.12.2000</datumProdeje>
+       <cena>80000.00</cena>
+       <dph>19</dph>
+   </vuz>
+   <vuz>
+       <nazevModelu>Škoda Forman</nazevModelu>
+       <datumProdeje>6.12.2000</datumProdeje>
+       <cena>100000.00</cena>
+       <dph>19</dph>
+   </vuz>
+   <vuz>
+       <nazevModelu>Škoda Felicia</nazevModelu>
+       <datumProdeje>3.12.2000</datumProdeje>
+       <cena>210000.00</cena>
+       <dph>19</dph>
+   </vuz>
+   <vuz>
+       <nazevModelu>Škoda Felicia</nazevModelu>
+       <datumProdeje>2.12.2000</datumProdeje>
+       <cena>210000.00</cena>
+       <dph>19</dph>
+   </vuz>
+   <vuz>
+        <nazevModelu>Škoda Oktávia</nazevModelu>
+        <datumProdeje>7.12.2010</datumProdeje>
+        <cena>500000.00</cena>
+        <dph>20</dph>
+    </vuz>
+</prodanevozy>
